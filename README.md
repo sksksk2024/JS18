@@ -1,1 +1,1 @@
-"# JS18" 
+Array Reduce
